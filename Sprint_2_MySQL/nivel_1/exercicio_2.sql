@@ -2,12 +2,14 @@
 SELECT DISTINCT c.country
 FROM company c
 JOIN transaction t ON c.id = t.company_id
+WHERE t.declined = 0
 ORDER BY c.country;
 
 -- Cantidad de países desde los que se realizan compras
 SELECT COUNT(DISTINCT c.country) AS cantidad_paises
 FROM company c
-JOIN transaction t on c.id = t.company_id;
+JOIN transaction t on c.id = t.company_id
+WHERE t.declined = 0;
 
 -- Empresa con el promedio más alto de ventas
 SELECT c.id, c.company_name, c.country,
