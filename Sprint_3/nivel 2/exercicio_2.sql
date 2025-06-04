@@ -9,7 +9,7 @@ CREATE VIEW VistaMarketing AS
 SELECT c.company_name as 'Nombre de la compañia',
 		c.phone AS 'Teléfono de contacto',
         c.country AS 'País de residencia',
-        AVG(t.amount) AS 'Media de compra'
+        ROUND(AVG(t.amount), 2) AS 'Media de compra'
 FROM company c
 JOIN transaction t ON c.id = t.company_id
 GROUP BY c.id, c.company_name, c.phone, c.country
