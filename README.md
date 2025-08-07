@@ -5,9 +5,9 @@
 <img 
   src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
   align="right"
-  width="160"
+  width="250"
   alt="Mario Running"
-  style="margin-top: 30px; margin-right: 20px;"
+  style="margin-top: 20px; margin-right: 20px;"
 />
 
 <strong>42 Projects Completed:</strong>
