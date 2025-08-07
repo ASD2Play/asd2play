@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Alao !
+# 👋 Salut, moi c’est asd2play !
 
 💻 Passionné de programmation et amoureux de l’école 42, où chaque projet est un défi à relever, même quand les obstacles s’enchaînent !
 
@@ -12,8 +12,8 @@
 - Minitalk 💬
 - So_long 🎮
 
-> “42, c’est plus qu’une école : c’est un jeu d’esprit, une aventure, un défi permanent. Toujours réfléchir, toujours coder, toujours progresser.”  
-> *— Alao*
+ “42, c’est plus qu’une école : c’est un jeu d’esprit, une aventure, un défi permanent. Toujours réfléchir, toujours coder, toujours progresser.”  
+ *— asd2play*
 
 ---
 
@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" alt="Mario" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Mario" />
 </p>
