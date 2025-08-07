@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alao!
+# 👋 Hi, I'm asd2play!
 
 💻 Passionate about programming and a big fan of 42 school, where every project is a new challenge—even when obstacles keep coming!
 
@@ -22,8 +22,8 @@
   <li>So_long 🎮</li>
 </ul>
 
-> “42 is more than a school: it’s a mind game, an adventure, a constant challenge. Always thinking, always coding, always improving.”  
-> *— Alao*
+ “42 is more than a school: it’s a mind game, an adventure, a constant challenge. Always thinking, always coding, always improving.”  
+ *— asd2play*
 
 ---
 
