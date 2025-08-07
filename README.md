@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est asd2play !
+# 👋 Salut, moi c’est Alao !
 
 💻 Passionné de programmation et amoureux de l’école 42, où chaque projet est un défi à relever, même quand les obstacles s’enchaînent !
 
@@ -13,13 +13,7 @@
 - So_long 🎮
 
 > “42, c’est plus qu’une école : c’est un jeu d’esprit, une aventure, un défi permanent. Toujours réfléchir, toujours coder, toujours progresser.”  
-> *— asd2play*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal2VRRBwY/giphy.gif" width="350" alt="Matrix code" />
-</p>
+> *— Alao*
 
 ---
 
@@ -30,4 +24,10 @@
   <a href="mailto:alainsd@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRal2VRRBwY/giphy.gif" width="240" alt="Matrix code" />
 </p>
