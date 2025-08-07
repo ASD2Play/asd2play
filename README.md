@@ -2,24 +2,26 @@
 
 💻 Passionate about programming and a big fan of 42 school, where every project is a new challenge—even when obstacles keep coming!
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <strong>42 Projects Completed:</strong>
-    <ul>
-      <li>Piscine 🏊‍♂️</li>
-      <li>Piscine Reload ♻️</li>
-      <li>Libft 📚</li>
-      <li>Get Next Line 🪢</li>
-      <li>Born2beroot 🐧</li>
-      <li>Printf 🖨️</li>
-      <li>Minitalk 💬</li>
-      <li>So_long 🎮</li>
-    </ul>
-  </div>
-  <div style="margin-left: 24px;">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="130" alt="Mario Running" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align:top;">
+      <strong>42 Projects Completed:</strong>
+      <ul>
+        <li>Piscine 🏊‍♂️</li>
+        <li>Piscine Reload ♻️</li>
+        <li>Libft 📚</li>
+        <li>Get Next Line 🪢</li>
+        <li>Born2beroot 🐧</li>
+        <li>Printf 🖨️</li>
+        <li>Minitalk 💬</li>
+        <li>So_long 🎮</li>
+      </ul>
+    </td>
+    <td style="vertical-align:top; text-align:right;" width="180">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150" alt="Mario Running" />
+    </td>
+  </tr>
+</table>
 
 > “42 is more than a school: it’s a mind game, an adventure, a constant challenge. Always thinking, always coding, always improving.”  
 > *— Alao*
