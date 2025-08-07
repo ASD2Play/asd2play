@@ -2,12 +2,13 @@
 
 💻 Passionate about programming and a big fan of 42 school, where every project is a new challenge—even when obstacles keep coming!
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
-     align="right" 
-     width="160" 
-     alt="Mario Running" 
-     style="margin-top: 32px;" 
-     hspace="0" />
+<img 
+  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
+  align="left"
+  width="160"
+  alt="Mario Running"
+  style="margin-top: 40px; margin-left: 0; margin-right: 20px;"
+/>
 
 <strong>42 Projects Completed:</strong>
 <ul>
