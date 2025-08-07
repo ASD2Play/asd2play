@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal2VRRBwY/giphy.gif" width="200" alt="Matrix code" />
+  <img src="https://github.com/42Paris/42stats/raw/main/public/MatrixRain.gif" width="200" alt="Matrix code" />
 </p>
