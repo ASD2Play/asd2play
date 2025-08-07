@@ -7,7 +7,7 @@
   align="right"
   width="160"
   alt="Mario Running"
-  style="margin-top: 40px; margin-right: 10px;"
+  style="margin-top: 30px; margin-right: 20px;"
 />
 
 <strong>42 Projects Completed:</strong>
