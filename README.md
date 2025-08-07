@@ -1,8 +1,8 @@
-# 👋 Salut, moi c’est asd2play !
+# 👋 Hi, I'm asd2play!
 
-💻 Passionné de programmation et amoureux de l’école 42, où chaque projet est un défi à relever, même quand les obstacles s’enchaînent !
+💻 Passionate about programming and a big fan of 42 school, where every project is a new challenge—even when obstacles keep coming!
 
-**Projets 42 réalisés :**
+**42 Projects Completed:**
 - Piscine 🏊‍♂️
 - Piscine Reload ♻️
 - Libft 📚
@@ -12,7 +12,7 @@
 - Minitalk 💬
 - So_long 🎮
 
- “42, c’est plus qu’une école : c’est un jeu d’esprit, une aventure, un défi permanent. Toujours réfléchir, toujours coder, toujours progresser.”  
+ “42 is more than a school: it’s a mind game, an adventure, a constant challenge. Always thinking, always coding, always improving.”  
  *— asd2play*
 
 ---
