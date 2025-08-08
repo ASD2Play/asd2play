@@ -12,8 +12,8 @@
 
 <strong>42 Projects Completed:</strong>
 <ul>
-  <li>Piscine 🏊‍♂️</li>
-  <li>Piscine Reload ♻️</li>
+  <li>Piscina 🏊‍♂️</li>
+  <li>Piscina Reload ♻️</li>
   <li>Libft 📚</li>
   <li>Get Next Line 🪢</li>
   <li>Born2beroot 🐧</li>
